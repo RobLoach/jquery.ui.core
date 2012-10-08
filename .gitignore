@@ -1,3 +1,4 @@
 *
+!*.json
 !*jquery.ui.core*
 !*.txt
