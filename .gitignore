@@ -5,4 +5,7 @@ MANIFEST
 ui/*
 !ui/jquery.ui.core.js
 !ui/jquery.ui.core.min.js
-themes
+themes/base/*
+!themes/base/jquery.ui.core.css
+themes/smoothness/*
+!themes/smoothness/jquery.ui.core.css
