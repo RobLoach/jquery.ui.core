@@ -24,6 +24,7 @@
       "url": "http://www.opensource.org/licenses/GPL-2.0"
     }
   ],
+  "main": "ui/jquery.ui.core.js",
   "jam": {
     "main": "ui/jquery.ui.core.js"
   }
