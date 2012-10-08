@@ -1,11 +1,3 @@
-i18n
-jquery-ui.js
-jquery-ui.min.js
-MANIFEST
-ui/*
-!ui/jquery.ui.core.js
-!ui/jquery.ui.core.min.js
-themes/base/*
-!themes/base/jquery.ui.core.css
-themes/smoothness/*
-!themes/smoothness/jquery.ui.core.css
+*
+!*jquery.ui.core*
+!*.txt
